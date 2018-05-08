@@ -1,0 +1,62 @@
+html, body{
+  background-color:black;
+}
+.floating-box {
+    display: inline-block;
+    width: 350px;
+    height: 550px;
+    margin-top: 50px;
+    margin-bottom:50px;
+    border: #21618C 15px solid;
+    border-radius: 10%;
+    background-color:white;
+}
+
+.column {
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: 32px;
+}
+.row{
+  display:inline-block;
+    margin-right: 15px;
+}
+.bigButton {
+    width: 110px;
+    height: 44px;
+}
+
+.text-box{
+    text-align: center;
+    font-family: lobster;
+    font-size: 25px;
+}
+
+#box{
+    display: block;
+    width: 285px;
+    height: 44px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-width: 5px;
+    border-radius: 10%;
+    opacity:0.5;
+    background-color: white;
+}
+
+#steps{
+  font-size:25px;
+  vertial-align:middle;
+  color:#641E16;
+}
+
+a{
+  width:2.6vw;
+  height:2.6vw;
+}
+
+footer{
+  color:white;
+}
